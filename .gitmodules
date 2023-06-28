@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "lctools"]
 	path = lctools
 	url = https://github.com/cran/lctools
-	shallow = true
-	registered = true
 [submodule "SpatialAcc"]
 	path = SpatialAcc
 	url = https://github.com/cran/SpatialAcc
-	shallow = true
-	registered = true
 [submodule "SpatialML"]
 	path = SpatialML
 	url = https://github.com/cran/SpatialML
-	shallow = true
-	registered = true

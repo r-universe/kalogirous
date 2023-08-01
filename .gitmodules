@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "lctools"]
-	path = lctools
-	url = https://github.com/cran/lctools
 [submodule "SpatialAcc"]
 	path = SpatialAcc
 	url = https://github.com/cran/SpatialAcc
 [submodule "SpatialML"]
 	path = SpatialML
 	url = https://github.com/cran/SpatialML
+[submodule "lctools"]
+	path = lctools
+	url = https://github.com/cran/lctools
